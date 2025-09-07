@@ -12,3 +12,7 @@ ai-agent-examples:一个agent 示例项目
 [引用](https://github.com/DjangoPeng/LanguageMentor/tree/v0.1)
 
 > 欢迎大家来提供Agent的案例
+
+## chat-ppt
+
+生成power-point
